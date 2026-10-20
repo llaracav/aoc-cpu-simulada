@@ -102,14 +102,4 @@ O arquivo `testes.py` verifica:
 - Limitação dos valores a 8 bits, incluindo casos de soma e subtração.
 - Execução integrada de um programa com verificação dos registradores e da memória.
 
-## 8. Regras do projeto
-
-Foram preservadas as seguintes características definidas pelo professor:
-
-- Os nomes dos arquivos.
-- A assinatura da função `ula()`.
-- A estrutura dos registradores.
-- O tamanho da memória.
-- A representação de 8 bits.
-
-O projeto utiliza funções auxiliares e comentários para organizar o código e facilitar a compreensão da implementação.
+##  O projeto utiliza funções auxiliares e comentários para organizar o código e facilitar a compreensão da implementação.
